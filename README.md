@@ -4,4 +4,4 @@
 
 2- implementation of logistic regression from scratch with ADAM and RMS optimizers 
 
-3- implementation of logistic regression from scratch with L1 regulization
+3- implementation of logistic regression from scratch with L1 regularization
